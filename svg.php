@@ -8,10 +8,10 @@ $circulo04 = 04;
 ?>
 
 <!-- Conteúdo do Círculo 01 -->
-<text x="755" y="100" fill="black"><?= $circulo01; ?></text>
+<text x="755" y="100" fill="white"><?= $circulo01; ?></text>
 
 <!-- Conteúdo do Círculo 02 -->
-<text x="260" y="80" fill="black"><?= $circulo02; ?></text>
+<text x="470" y="85" fill="white"><?= $circulo02; ?></text>
 
 <!-- Conteúdo do Círculo 03 -->
 <text x="60" y="280" fill="black"><?= $circulo03; ?></text>
